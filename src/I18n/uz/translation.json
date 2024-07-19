@@ -1,0 +1,26 @@
+{
+    "header":{
+        "link":"Ro'yxatdan o'tish"
+    },
+    "main":{
+        "text":"BUKHARA EDUCATION O'QUV MARKAZIDA YANGI O'QUV YILI UCHUN QABUL BOSHLANDI.",
+        "text2":"Kurslarimiz:"
+    },
+    "bot":{
+        "text":"Ro'yxatdan o'tish",
+        "texts":"Tez orada operatorlarimiz siz bilan bog'lanadi",
+        "texts2":"Ism*",
+        "texts3":"Telefon*",
+        "texts4":"Fan*",
+        "texts5":"Jo'natish",
+        "texts6":"Iltimos, ism kiriting",
+        "texts7":"Yaroqli raqam kiriting",
+        "texts8":"Iltimos, fanni yozing"
+    },
+    "footer":{
+        "text":"Ma'lumot olish uchun telefon raqami:",
+        "manzil":"Manzilimiz: Jizzax shaxri yoshlar shaxarchasi",
+        "manzil2":"Mo’ljal:Marakand kafesi ro’parasida"
+    }
+
+}
