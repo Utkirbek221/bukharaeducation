@@ -9,6 +9,7 @@ export default function Footer() {
         <div className=''>
           <h1 className='text-[25px] mb-4 max-md:text-[13px]'>{t("footer.text")}</h1>
           <p className='text-[25px] max-md:text-[13px]'>+998 97 845 05 15</p>
+          <p className='text-[25px] max-md:text-[13px]'>+998 97 522 77 73</p>
         </div>
         <div className=''>
           <h1 className='text-[25px] max-md:text-[13px]'>📍{t("footer.manzil")}</h1>

@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 
 
 export default function Main() {
-  const { t } = useTranslation();
+    const { t } = useTranslation();
     return (
         <>
             <div className='bgimg rounded-[25px] w-full h-[500px]  mt-5 relative '>
@@ -51,15 +51,30 @@ export default function Main() {
                             </ul>
                         </div>
                     </div>
-                    <h2 className='mt-[100px] mr-[-160px] text-[50px] text-[#45474B] max-md:text-[25px] max-md:hidden max-lg:text-[35px] max-lg:mt-[20px] max-lg:mr-[-70px]'>{t("main.text2")}</h2>
+                    <b className='mt-[140px] font-900 mr-[-160px] text-[50px] text-[#45474B] max-md:text-[25px] max-md:hidden max-lg:text-[35px] max-lg:mt-[20px] max-lg:mr-[-70px]'>{t("main.text2")}</b>
                     <div className=' text-[23px]  font-[600] text-[#45474B]'>
-                        <h1 className='max-md:text-[18px] max-md:w-[120px] max-lg:w-[140px] max-lg:leading-5 max-md:leading-4'>Kompyuter savodxonligi</h1>
-                        <h1 className='max-md:text-[18px]'>Dasturlash tillari</h1>
                         <div>
                             <h1 className='max-md:text-[18px]'>Tabiiy fanlar</h1>
                             <ul className='max-md:text-[10px] text-[#F4CE14] text-[16px] grid grid-cols-2 '>
                                 <li>Biologiya</li>
                                 <li>Kimyo</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h1 className='max-md:text-[18px] max-md:w-[120px] max-lg:w-[140px] max-lg:leading-5 max-md:leading-4'>Kompyuter savodxonligi</h1>
+                            <ul className='max-md:text-[10px] text-[#F4CE14] text-[16px] grid grid-cols-2 '>
+                                <li>Word</li>
+                                <li>Excel</li>
+                                <li>PowerPoint</li>
+                                <li>Photoshop</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h1 className='max-md:text-[18px]'>Dasturlash tillari</h1>
+                            <ul className='max-md:text-[10px] text-[#F4CE14] text-[16px] grid grid-cols-2 '>
+                                <li>HTML </li>
+                                <li>CSS</li>
+                                <li>JavaScript </li>
                             </ul>
                         </div>
                     </div>

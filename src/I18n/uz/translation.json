@@ -4,7 +4,7 @@
     },
     "main":{
         "text":"BUKHARA EDUCATION O'QUV MARKAZIDA YANGI O'QUV YILI UCHUN QABUL BOSHLANDI.",
-        "text2":"Kurslarimiz:"
+        "text2":"KURSLARIMIZ:"
     },
     "bot":{
         "text":"Ro'yxatdan o'tish",
@@ -19,7 +19,7 @@
     },
     "footer":{
         "text":"Ma'lumot olish uchun telefon raqami:",
-        "manzil":"Manzilimiz: Jizzax shaxri yoshlar shaxarchasi",
+        "manzil":"Manzil: Jizzax shahri yoshlar shaharchasi",
         "manzil2":"Mo’ljal:Marakand kafesi ro’parasida"
     }
 
